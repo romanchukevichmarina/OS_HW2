@@ -1,0 +1,75 @@
+Open answering_ticket_sem
+Open teacher_sem
+Teacher pid = 873, ppid = 872
+Exam started
+Creator pid = 877, ppid = 873
+
+Student 878 come to exam and start writing ticket number 11
+Student 879 come to exam and start writing ticket number 78
+879 student start answering his ticket
+Teacher started listening to student's 879 answer
+Student 879 got mark 2 for exam
+879 goes home
+
+Teacher waiting for next student
+878 student start answering his ticket
+Teacher started listening to student's 878 answer
+Student 880 come to exam and start writing ticket number 84
+Student 881 come to exam and start writing ticket number 56
+Student 878 got mark 5 for exam
+878 goes home
+
+Teacher waiting for next student
+880 student start answering his ticket
+Teacher started listening to student's 880 answer
+Student 882 come to exam and start writing ticket number 92
+Student 880 got mark 3 for exam
+880 goes home
+
+Teacher waiting for next student
+881 student start answering his ticket
+Teacher started listening to student's 881 answer
+Student 883 come to exam and start writing ticket number 66
+Student 881 got mark 3 for exam
+881 goes home
+
+Teacher waiting for next student
+883 student start answering his ticket
+Teacher started listening to student's 883 answer
+Student 884 come to exam and start writing ticket number 12
+Student 883 got mark 5 for exam
+883 goes home
+
+Teacher waiting for next student
+882 student start answering his ticket
+Teacher started listening to student's 882 answer
+Student 885 come to exam and start writing ticket number 21
+Student 886 come to exam and start writing ticket number 54
+Student 882 got mark 4 for exam
+882 goes home
+
+Teacher waiting for next student
+884 student start answering his ticket
+Teacher started listening to student's 884 answer
+Student 887 come to exam and start writing ticket number 18
+Student 884 got mark 4 for exam
+884 goes home
+
+Teacher waiting for next student
+885 student start answering his ticket
+Teacher started listening to student's 885 answer
+Student 888 come to exam and start writing ticket number 53
+Student 885 got mark 5 for exam
+885 goes home
+
+Teacher waiting for next student
+886 student start answering his ticket
+Teacher started listening to student's 886 answer
+Student 889 come to exam and start writing ticket number 64
+^CStudents go to bar
+Students go to bar
+Students go to bar
+Students go to bar
+answering_ticket_sem has been closed
+teacher_sem has been closed
+Teacher finished exam
