@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "(lldb) Подключить",
+      "type": "cppdbg",
+      "request": "attach",
+      "program": "Введите имя программы, например: ${workspaceFolder}/a.out",
+      "MIMode": "lldb"
+    },
+    {
+      "name": "(lldb) Запустить",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "Введите имя программы, например: ${workspaceFolder}/a.out",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${fileDirname}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "lldb"
+    },
+    
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/marinaromanchukevich/OS_HW2",
+      "program": "/Users/marinaromanchukevich/OS_HW2/build/Debug/outDebug"
+    }
+  ]
+}
